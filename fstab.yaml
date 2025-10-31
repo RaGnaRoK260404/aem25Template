@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://drive.google.com/drive/folders/1s6hErsWZnwH1bDyJzLhPK3drM1Rsst5y?dmr=1&ec=wgc-drive-hero-goto
+    type: markup
+
+folders:
+  /products/: /products/default
